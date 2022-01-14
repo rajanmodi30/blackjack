@@ -1,0 +1,27 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial,
+    sans-serif;
+  background-image: url("../images/table.webp");
+  text-align: center;
+  background-size: cover;
+  font-weight: bold;
+  color: white;
+}
+
+h1 {
+  color: goldenrod;
+  font-size: 120px;
+}
+
+p{
+    font-size: 30px;
+}
+button {
+  border-radius: 4px;
+  background-color: goldenrod;
+  color: #016f32;
+  width: 250px;
+  font-size: 30px;
+  margin: 5px 0;
+  border:none;
+}
